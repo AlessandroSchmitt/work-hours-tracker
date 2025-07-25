@@ -15,7 +15,4 @@ Include funzionalità di esportazione dati in CSV, visualizzazione di grafici e 
 - holidays
 - pillow
 
-## Installazione pacchetti
 
-```bash
-pip install customtkinter tkcalendar matplotlib holidays pillow

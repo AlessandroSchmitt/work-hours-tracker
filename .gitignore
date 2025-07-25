@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folders
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs and databases
+*.log
+
+# Files da ignorare per il progetto
+registro_orari.json
+
+# Files temporanei
+*.tmp
+*.temp
+
+# Python test cache
+.pytest_cache/
+.coverage
+.tox/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Files di configurazione locali (es. secrets)
+.env
